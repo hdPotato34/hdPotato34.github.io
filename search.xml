@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>My New Post</title>
+      <link href="/2023/08/03/My-New-Post/"/>
+      <url>/2023/08/03/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>TestDrive</title>
+      <link href="/2023/08/03/TestDrive/"/>
+      <url>/2023/08/03/TestDrive/</url>
+      
+        <content type="html"><![CDATA[<p>Good morning people, this should be the first original blog of mine.<br>I need time to get used to the markdown stuff.</p><h1 id="lvl-1"><a href="#lvl-1" class="headerlink" title="lvl 1"></a>lvl 1</h1><h2 id="lvl-2"><a href="#lvl-2" class="headerlink" title="lvl 2"></a>lvl 2</h2><h3 id="lvl-3"><a href="#lvl-3" class="headerlink" title="lvl 3"></a>lvl 3</h3><h4 id="this-should-be-all-we-need-for-now"><a href="#this-should-be-all-we-need-for-now" class="headerlink" title="this should be all we need for now"></a>this should be all we need for now</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">print</span>(<span class="string">&quot;hello there&quot;</span>)</span><br></pre></td></tr></table></figure><blockquote><p>quote unquote</p></blockquote><p>this is <em>italics</em>, this is <strong>bold</strong></p><hr><p><code>this is good</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> ignorethisthankyou </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/08/02/hello-world/"/>
       <url>/2023/08/02/hello-world/</url>

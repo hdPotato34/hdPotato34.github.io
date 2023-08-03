@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-02T09:39:53.807Z</updated>
+  <updated>2023-08-03T15:11:41.497Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://example.com/2023/08/03/My-New-Post/"/>
+    <id>http://example.com/2023/08/03/My-New-Post/</id>
+    <published>2023-08-03T15:11:41.000Z</published>
+    <updated>2023-08-03T15:11:41.497Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TestDrive</title>
+    <link href="http://example.com/2023/08/03/TestDrive/"/>
+    <id>http://example.com/2023/08/03/TestDrive/</id>
+    <published>2023-08-03T14:41:43.000Z</published>
+    <updated>2023-08-03T14:52:09.395Z</updated>
+    
+    <content type="html"><![CDATA[<p>Good morning people, this should be the first original blog of mine.<br>I need time to get used to the markdown stuff.</p><h1 id="lvl-1"><a href="#lvl-1" class="headerlink" title="lvl 1"></a>lvl 1</h1><h2 id="lvl-2"><a href="#lvl-2" class="headerlink" title="lvl 2"></a>lvl 2</h2><h3 id="lvl-3"><a href="#lvl-3" class="headerlink" title="lvl 3"></a>lvl 3</h3><h4 id="this-should-be-all-we-need-for-now"><a href="#this-should-be-all-we-need-for-now" class="headerlink" title="this should be all we need for now"></a>this should be all we need for now</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">print</span>(<span class="string">&quot;hello there&quot;</span>)</span><br></pre></td></tr></table></figure><blockquote><p>quote unquote</p></blockquote><p>this is <em>italics</em>, this is <strong>bold</strong></p><hr><p><code>this is good</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Good morning people, this should be the first original blog of mine.&lt;br&gt;I need time to get used to the markdown stuff.&lt;/p&gt;
+&lt;h1 id=&quot;lvl-1&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="ignorethisthankyou" scheme="http://example.com/tags/ignorethisthankyou/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
