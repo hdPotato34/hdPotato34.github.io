@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-03T15:11:41.497Z</updated>
+  <updated>2023-08-09T07:02:30.142Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://example.com/2023/08/03/My-New-Post/"/>
-    <id>http://example.com/2023/08/03/My-New-Post/</id>
-    <published>2023-08-03T15:11:41.000Z</published>
-    <updated>2023-08-03T15:11:41.497Z</updated>
+    <title>Photo</title>
+    <link href="http://example.com/2023/08/09/Photo/"/>
+    <id>http://example.com/2023/08/09/Photo/</id>
+    <published>2023-08-09T06:45:57.000Z</published>
+    <updated>2023-08-09T07:02:30.142Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="This-is-another-test"><a href="#This-is-another-test" class="headerlink" title="This is another test"></a>This is another test</h2><p>Lets check this feature out fellas<br>Here goes</p><h4 id="P1-Sample-Starry-Night-Guy"><a href="#P1-Sample-Starry-Night-Guy" class="headerlink" title="P1 Sample Starry Night Guy"></a>P1 Sample Starry Night Guy</h4><p><a href="Starry_Night.jpg">Starry Night</a></p><h4 id="P2-Sample-Zen"><a href="#P2-Sample-Zen" class="headerlink" title="P2 Sample Zen"></a>P2 Sample Zen</h4><p><a href="Zen.jpg">Zen</a></p><h4 id="P3-Sample-Flower"><a href="#P3-Sample-Flower" class="headerlink" title="P3 Sample Flower"></a>P3 Sample Flower</h4><p>this pic means a lot to me<br><a href="Love.jpg">Flower</a></p><h4 id="This-is-it-Hopes-it-works"><a href="#This-is-it-Hopes-it-works" class="headerlink" title="This is it, Hopes it works"></a>This is it, Hopes it works</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;This-is-another-test&quot;&gt;&lt;a href=&quot;#This-is-another-test&quot; class=&quot;headerlink&quot; title=&quot;This is another test&quot;&gt;&lt;/a&gt;This is another test&lt;/h2&gt;&lt;</summary>
+      
     
     
     
     
+    <category term="ignorethisthankyou" scheme="http://example.com/tags/ignorethisthankyou/"/>
     
   </entry>
   
